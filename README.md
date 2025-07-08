@@ -3,7 +3,7 @@ Nama : Bayu Sadewa Azyumardi
 Batch : DS32A
 
 You can access the streamlit results with the following link:
-
+https://ds32a-day40-bayu-sadewa.streamlit.app/
 
 You can access the full coding of this task:
 https://colab.research.google.com/drive/1_4BwPZyEMgkpAjI09gZkkWvx6IvSGZew?usp=sharing
